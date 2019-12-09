@@ -3,6 +3,4 @@ hello world
 
 This is great attemp!!
 
-OK
-
-no
+This is a testbench.
